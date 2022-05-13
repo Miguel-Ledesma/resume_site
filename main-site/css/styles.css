@@ -6,6 +6,21 @@ body {
     animation-fill-mode: forwards;
 }
 
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+.education {
+    padding: 10px;
+    margin: 10px;
+}
+.technical-skill {
+    padding: 10px;
+    margin: 10px;
+}
+
 .navigation-set {
     list-style-type: none;
     padding-left: 0;
