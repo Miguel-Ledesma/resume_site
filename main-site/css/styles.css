@@ -10,11 +10,21 @@ footer {
     text-align: center;
 }
 
+img {
+    border-radius: 100%;
+    width: 40%;
+    height: auto;
+}
+
 .main {
     border-bottom-style: solid;
     border-color: red;
 }
-
+.pic-me {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 .introduction {
     text-align: center;
     border-bottom-style: solid;
@@ -61,7 +71,6 @@ footer {
     border-width: 2px;
     border-style: solid;
 }
-
 #burgerButton {
     display: none;
 }
@@ -102,6 +111,7 @@ footer {
     }
     nav.open {
         display: inline-block;
+        background-color:#1a1a1d;
         position: absolute;
         top: 100%;
         right: 0;
