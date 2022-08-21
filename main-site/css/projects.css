@@ -1,0 +1,12 @@
+.project-h1 {
+    text-align: center;
+}
+.projects-containter {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.project {
+    padding: 10px;
+}
