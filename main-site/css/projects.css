@@ -9,4 +9,20 @@
 
 .project {
     padding: 10px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    color: #950740;
+}
+a:hover {
+    color: gold;
+    font-size: larger;
+}
+
+#rest-pic {
+    width: 30%;
+    border-radius: 0%;
+    height: auto;
 }
