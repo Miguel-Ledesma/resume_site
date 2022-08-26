@@ -2,9 +2,12 @@
     text-align: center;
 }
 .projects-containter {
+    margin-left:auto;
+    margin-right:auto;
+    max-width: 600px;
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .project {
@@ -22,7 +25,12 @@ a:hover {
 }
 
 #rest-pic {
-    width: 30%;
+    width: 40%;
+    border-radius:0%;
+    height: auto;
+}
+#api-pic {
+    width: 40%;
     border-radius:0%;
     height: auto;
 }
