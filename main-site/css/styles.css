@@ -147,7 +147,7 @@ footer {
     text-align:center;
     line-height: 90vh;
     transition: 0.5s;
-    display:block;
+    display:none;
 }
 
 @keyframes fadeIn {
