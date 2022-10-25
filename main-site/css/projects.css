@@ -24,24 +24,9 @@ a:hover {
     font-size: larger;
 }
 
-#rest-pic {
+.picture {
     width: 40%;
     border-radius:0%;
-    height: auto;
-}
-#api-pic {
-    width: 40%;
-    border-radius:0%;
-    height: auto;
-}
-#react-pic {
-    width: 40%;
-    border-radius: 0%;
-    height: auto;
-}
-#floor-plan-pic {
-    width: 40%;
-    border-radius: 0%;
     height: auto;
 }
 
