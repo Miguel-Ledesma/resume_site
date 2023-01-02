@@ -89,11 +89,11 @@ footer {
     }
 
     .small-screen {
-        display: none;
+        display: block;
     }
     
     .large-screen {
-        display: block;
+        display: none;
     }
 
     header {
