@@ -175,7 +175,7 @@ footer {
     padding: 10px;
     text-align: center;
 }
-.project-name {
+.project-name, .current-project-name {
     text-decoration: none;
     text-align: center;
     color: #950740;
@@ -184,7 +184,6 @@ footer {
     color: gold;
     font-size: larger;
 }
-
 .picture {
     max-width: 40%;
     border-radius:0%;
